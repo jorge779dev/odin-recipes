@@ -1,0 +1,25 @@
+.index-body {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    font-family: Helvetica, Arial, "Times New Roman", sans-serif;
+}
+
+.index-ulist {
+    font-size: 32px;
+    display: contents;
+}
+
+a {
+    color: rgb(255, 136, 0);
+    text-decoration: none;
+}
+
+.index-h1 {
+    font-size: 40px;
+    font-weight: 900; /* full bold limit text */
+}
+
+img {
+    width: 600px;
+    border-radius: 32px;
+}
